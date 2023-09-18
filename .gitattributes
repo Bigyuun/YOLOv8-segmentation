@@ -1,0 +1,1 @@
+yolov8m-seg.pt filter=lfs diff=lfs merge=lfs -text
