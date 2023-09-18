@@ -1,0 +1,6 @@
+path: C:\Users\daeyun\Desktop\github_repositories_Bigyuun\YOLOv8-segmentation\data
+train: images/train
+val: images/val
+
+nc: 1
+names: ['forceps_tip']
