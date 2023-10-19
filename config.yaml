@@ -1,6 +1,7 @@
-path: C:\Users\daeyun\Desktop\github_repositories_Bigyuun\YOLOv8-segmentation\data
+path: C:\Users\daeyun\Desktop\github_repositories_Bigyuun\YOLOv8-segmentation\datasets_MIDAS_3
 train: images/train
-val: images/val
+val: images/validation
+test: images/test
 
 nc: 1
 names: ['forceps_tip']

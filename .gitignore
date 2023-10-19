@@ -1,4 +1,6 @@
 .idea
-run/
+runs/
 data_crop/
 data/
+dataset
+__pycache__/
